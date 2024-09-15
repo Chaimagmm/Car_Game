@@ -34,12 +34,5 @@ python car_game.py
 - A / Left Arrow: Move the car left
 - D / Right Arrow: Move the car right
   
-## Project Structure
-
-.
-├── car_game.py        # Main Python game script
-├── car.png            # Player car image
-├── otherCar.png       # Enemy car image
-└── README.md          # Project documentation (this file)
 ## License
 This project is licensed under the MIT License.
