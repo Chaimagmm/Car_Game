@@ -4,9 +4,9 @@ This is a simple car racing game built using Pygame, where the player controls a
 
 ## Features
 
-- **Simple gameplay:** Move your car left or right to avoid the enemy car.
-- **Progressive difficulty:** The game speeds up as the player progresses.
-- **Basic 2D graphics:** Simple car images and a road drawn using Pygame.
+- Simple gameplay:** Move your car left or right to avoid the enemy car.
+- Progressive difficulty:** The game speeds up as the player progresses.
+- Basic 2D graphics:** Simple car images and a road drawn using Pygame.
 
 ## Requirements
 
@@ -20,19 +20,19 @@ This is a simple car racing game built using Pygame, where the player controls a
    pip install pygame
    
 ## How to Play
-- **Use A or Left Arrow to move the car left.
-- **Use D or Right Arrow to move the car right.
-- **Avoid the enemy car that moves down the screen.
-- **The game will increase in difficulty as the speed of the enemy car increases.
-- **The game ends when your car collides with the enemy car.
+- Use A or Left Arrow to move the car left.
+- Use D or Right Arrow to move the car right.
+- Avoid the enemy car that moves down the screen.
+- The game will increase in difficulty as the speed of the enemy car increases.
+- The game ends when your car collides with the enemy car.
 ## Running the Game
 - **After installing Python and Pygame, and placing the car images in the project folder, run the game using:
 python car_game.py
 - **The game window will appear, and you can control your car using the keyboard.
 
 ## Controls
-- **A / Left Arrow: Move the car left
-- **D / Right Arrow: Move the car right
+- A / Left Arrow: Move the car left
+- D / Right Arrow: Move the car right
   
 ## Project Structure
 
